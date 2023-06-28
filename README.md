@@ -16,6 +16,9 @@ Task - 3
 The third step is to create a marketing dashboard in Power BI using the cleaned and explored data. You can use visualizations like stacked bar charts, heat maps, and tree maps to create informative and interactive reports. You can also enable drill-through functionality to allow users to explore the data in more detail. You can create reports that analyze the impact of different factors on customer acceptance, evaluate product categories, assess marketing channel effectiveness, and analyze customer complaints.
 [Marketing_Campaign_Data_Analysis_3.0.pdf](https://github.com/shivani11chaudhary/Marketing-Campaign-Data-Analysis-using-PowerBi/files/11804594/Marketing_Campaign_Data_Analysis_3.0.pdf)
 
+Task - 4
+The final step is to export and share the reports and insights generated from the marketing dashboard. You can use Power BI's sharing capabilities to distribute the reports to relevant stakeholders. You can also present and communicate the findings from the analysis to marketing professionals. You can provide recommendations based on the insights gained to optimize marketing campaigns, improve ROI, and enhance customer acceptance.
+
 
 
 
