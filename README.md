@@ -19,6 +19,8 @@ The third step is to create a marketing dashboard in Power BI using the cleaned 
 Task - 4
 The final step is to export and share the reports and insights generated from the marketing dashboard. You can use Power BI's sharing capabilities to distribute the reports to relevant stakeholders. You can also present and communicate the findings from the analysis to marketing professionals. You can provide recommendations based on the insights gained to optimize marketing campaigns, improve ROI, and enhance customer acceptance.
 
+https://github.com/shivani11chaudhary/Marketing-Campaign-Data-Analysis-using-PowerBi/blob/main/Marketing_Campaign_Data_Analysis_4th%20Task(Report).pdf
+
 
 
 
